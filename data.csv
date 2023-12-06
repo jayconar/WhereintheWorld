@@ -1,0 +1,619 @@
+City,Subdivision,Country
+Vienna,,Austria
+Brussels,Brussels-Capital,Belgium
+Sofia,Sofia-Capital,Bulgaria
+Zagreb,City of Zagreb,Croatia
+Nicosia,Nicosia,Cyprus
+Prague,Prague,Czech Republic
+Copenhagen,Capital Region,Denmark
+Nuuk,Greenland,Kingdom of Denmark
+Tallinn,Harju,Estonia
+Helsinki,Uusimaa,Finland
+Paris,Île-de-France,France
+Nantes,Brittany,France
+Marseille,Provence-Alpes-Côte d'Azur,France
+Lyon,Auvergne-Rhône-Alpes,France
+Strasbourg,Alsace-Lorraine,France
+Berlin,Berlin,Germany
+Hamburg,Hamburg,Germany
+Munich,Bavaria,Germany
+Athens,Attica,Greece
+Thessaloniki,Central Macedonia,Greece
+Budapest,Budapest,Hungary
+Dublin,Leinster,Ireland
+Rome,Lazio,Italy
+Milan,Lombardy,Italy
+Naples,Campania,Italy
+Riga,Riga,Latvia
+Vilnius,Vilnius,Lithuania
+Luxembourg City,, Luxembourg
+Valletta,South Eastern Region,Malta
+Amsterdam,North Holland,Netherlands
+Oslo,Oslo,Norway
+Warsaw,Masovian,Poland
+Lisbon,Lisbon,Portugal
+Porto,Porto,Portugal
+Bucharest,Ilfov,Romania
+Bratislava,Bratislava,Slovakia
+Ljubljana,Ljubljana,Slovenia
+Madrid,Community of Madrid,Spain
+Barcelona,Catalonia,Spain
+Valencia,Valencian Community,Spain
+Stockholm,Stockholm,Sweden
+Zurich,Zurich,Switzerland
+Geneva,Geneva,Switzerland
+London,England,United Kingdom
+Manchester,England,United Kingdom
+Birmingham,England,United Kingdom
+Glasgow,Scotland,United Kingdom
+Rotterdam,South Holland,Netherlands
+Kraków,Lesser Poland,Poland
+Moscow,Moscow,Russia
+Volgograd,Volgograd Oblast,Russia
+St. Petersburg,St. Petersburg,Russia
+Minsk,Minsk,Belarus
+Chisinau,Chisinau,Moldova
+Belgrade,Belgrade,Serbia
+Sarajevo,Sarajevo,Bosnia and Herzegovina
+Tirana,Tirana,Albania
+Skopje,Skopje,North Macedonia
+Podgorica,Podgorica,Montenegro
+Pristina,Pristina,Kosovo
+Yerevan,Yerevan,Armenia
+Baku,Baku,Azerbaijan
+Ankara,Ankara,Turkey
+Istanbul,Istanbul,Turkey
+Izmir,Aegean,Turkey
+Antalya,Mediterranean,Turkey
+Kyiv,Kyiv,Ukraine
+Tbilisi,Tbilisi,Georgia
+Johannesburg,Gauteng,South Africa
+Cape Town,Western Cape,South Africa
+Islamabad,Islamabad Capital Territory,Pakistan
+Karachi,Sindh,Pakistan
+Lahore,Punjab,Pakistan
+Faisalabad,Punjab,Pakistan
+Rawalpindi,Punjab,Pakistan
+Multan,Punjab,Pakistan
+Gujranwala,Punjab,Pakistan
+Peshawar,Khyber Pakhtunkhwa,Pakistan
+Quetta,Balochistan,Pakistan
+Dhaka,Dhaka Division,Bangladesh
+Chittagong,Chittagong Division,Bangladesh
+Kathmandu,Bagmati,Nepal
+Thimphu,Thimphu District,Bhutan
+New Delhi,Delhi,India
+Mumbai,Maharashtra,India
+Kolkata,West Bengal,India
+Chennai,Tamil Nadu,India
+Hyderabad,Telangana,India
+Bangalore,Karnataka,India
+Thiruvananthapuram,Kerala,India
+Jaipur,Rajasthan,India
+Lucknow,Uttar Pradesh,India
+Patna,Bihar,India
+Dispur,Assam,India
+Bhopal,Madhya Pradesh,India
+Dehradun,Uttarakhand,India
+Gandhinagar,Gujarat,India
+Raipur,Chhattisgarh,India
+Amaravati,Andhra Pradesh,India
+Ranchi,Jharkhand,India
+Shimla,Himachal Pradesh,India
+Itanagar,Arunachal Pradesh,India
+Agartala,Tripura,India
+Kohima,Nagaland,India
+Imphal,Manipur,India
+Aizawl,Mizoram,India
+Gangtok,Sikkim,India
+Panaji,Goa,India
+Pune,Maharashtra,India
+Ahmedabad,Gujarat,India
+Surat,Gujarat,India
+Kanpur,Uttar Pradesh,India
+Nagpur,Maharashtra,India
+Indore,Madhya Pradesh,India
+Chandigarh,Union Territory,India
+Ludhiana,Punjab,India
+Visakhapatnam,Andhra Pradesh,India
+Kochi,Kerala,India
+Coimbatore,Tamil Nadu,India
+Vadodara,Gujarat,India
+Bhubaneswar,Odisha,India
+Guwahati,Assam,India
+Amritsar,Punjab,India
+Varanasi,Uttar Pradesh,India
+Madurai,Tamil Nadu,India
+Mysore,Karnataka,India
+Beijing,Beijing,China
+Shanghai,Shanghai,China
+Guangzhou,Guangdong,China
+Shenzhen,Guangdong,China
+Tianjin,Tianjin,China
+Chongqing,Chongqing,China
+Nanjing,Jiangsu,China
+Hangzhou,Zhejiang,China
+Wuhan,Hubei,China
+Chengdu,Sichuan,China
+Xi'an,Shaanxi,China
+Kunming,Yunnan,China
+Lanzhou,Gansu,China
+Hohhot,Inner Mongolia,China
+Taiyuan,Shanxi,China
+Nanning,Guangxi,China
+Haikou,Hainan,China
+Hefei,Anhui,China
+Fuzhou,Fujian,China
+Nanchang,Jiangxi,China
+Shijiazhuang,Hebei,China
+Zhengzhou,Henan,China
+Jinan,Shandong,China
+Harbin,Heilongjiang,China
+Changchun,Jilin,China
+Taipei,Taiwan,China
+Lhasa,Tibet,China
+Urumqi,Xinjiang,China
+Yinchuan,Ningxia,China
+Guilin,Guangxi,China
+Dalian,Liaoning,China
+Qingdao,Shandong,China
+Xiamen,Fujian,China
+Changsha,Hunan,China
+Wuxi,Jiangsu,China
+Ningbo,Zhejiang,China
+Changzhou,Jiangsu,China
+Suzhou,Jiangsu,China
+Wenzhou,Zhejiang,China
+Foshan,Guangdong,China
+Zhongshan,Guangdong,China
+Dongguan,Guangdong,China
+Zhuhai,Guangdong,China
+Kunshan,Jiangsu,China
+Nantong,Jiangsu,China
+Jiaxing,Zhejiang,China
+Huzhou,Zhejiang,China
+Jinhua,Zhejiang,China
+Jiangmen,Guangdong,China
+Yangzhou,Jiangsu,China
+Huizhou,Guangdong,China
+Buenos Aires,Buenos Aires,Argentina
+La Paz,La Paz,Bolivia
+Brasília,Federal District,Brazil
+Santiago,Santiago Metropolitan Region,Chile
+Bogotá,Bogotá,Colombia
+Quito,Pichincha,Ecuador
+Georgetown,Demerara-Mahaica,Guyana
+Asunción,Asunción,Paraguay
+Lima,Lima,Peru
+Paramaribo,Paramaribo,Suriname
+Montevideo,Montevideo,Uruguay
+Caracas,Capital District,Venezuela
+São Paulo,São Paulo,Brazil
+Rio de Janeiro,Rio de Janeiro,Brazil
+Salvador,Bahia,Brazil
+Fortaleza,Ceará,Brazil
+Belo Horizonte,Minas Gerais,Brazil
+Porto Alegre,Rio Grande do Sul,Brazil
+Medellín,Antioquia,Colombia
+Cali,Valle del Cauca,Colombia
+Guayaquil,Guayas,Ecuador
+Arequipa,Arequipa,Peru
+Trujillo,La Libertad,Peru
+Maracaibo,Zulia,Venezuela
+Belize City,Belize District,Belize
+La Ceiba,Atlántida,Honduras
+San Pedro Sula,Cortés,Honduras
+Granada,Granada,Nicaragua
+Leon,León,Nicaragua
+David,Chiriquí,Panama
+Colón,Colón,Panama
+Santa Ana,Santa Ana,El Salvador
+San Miguel,San Miguel,El Salvador
+Belmopan,Cayo,Belize
+San Jose,San Jose,Costa Rica
+Guatemala City,Guatemala,Guatemala
+Tegucigalpa,Francisco Morazán,Honduras
+Managua,Managua,Nicaragua
+Panama City,Panama,Panama
+San Salvador,San Salvador,El Salvador
+Guadalajara,Jalisco,Mexico
+Monterrey,Nuevo León,Mexico
+Puebla,Puebla,Mexico
+Tijuana,Baja California,Mexico
+Ciudad Juárez,Chihuahua,Mexico
+León,Guanajuato,Mexico
+Zapopan,Jalisco,Mexico
+Nezahualcóyotl,Mexico,Mexico
+Mexicali,Baja California,Mexico
+Culiacán,Sinaloa,Mexico
+Aguascalientes,Aguascalientes,Mexico
+Cancún,Quintana Roo,Mexico
+Mérida,Yucatán,Mexico
+San Luis Potosí,San Luis Potosí,Mexico
+Chihuahua,Chihuahua,Mexico
+Hermosillo,Sonora,Mexico
+Saltillo,Coahuila,Mexico
+Toluca,State of Mexico,Mexico
+Acapulco,Guerrero,Mexico
+Ixtapa,Guerrero,Mexico
+Montreal,Quebec,Canada
+Vancouver,British Columbia,Canada
+Calgary,Alberta,Canada
+Ottawa,Ontario,Canada
+Edmonton,Alberta,Canada
+Mississauga,Ontario,Canada
+Winnipeg,Manitoba,Canada
+Brampton,Ontario,Canada
+Hamilton,Ontario,Canada
+Quebec City,Quebec,Canada
+Surrey,British Columbia,Canada
+Laval,Quebec,Canada
+Halifax,Nova Scotia,Canada
+Markham,Ontario,Canada
+Vaughan,Ontario,Canada
+Kitchener,Ontario,Canada
+St. John's,Newfoundland and Labrador,Canada
+Charlottetown,Prince Edward Island,Canada
+Fredericton,New Brunswick,Canada
+Toronto,Ontario,Canada
+Regina,Saskatchewan,Canada
+Victoria,British Columbia,Canada
+Whitehorse,Yukon,Canada
+Yellowknife,Northwest Territories,Canada
+Iqaluit,Nunavut,Canada
+Nur-Sultan,Akmola Region,Kazakhstan
+Tashkent,Tashkent Region,Uzbekistan
+Ashgabat,Ahal,Turkmenistan
+Bishkek,Chuy Region,Kyrgyzstan
+Dushanbe,Districts of Republican Subordination,Tajikistan
+Ulaanbaatar,Ulaanbaatar,Mongolia
+Tokyo,Tokyo,Japan
+Osaka,Osaka,Japan
+Nagoya,Aichi,Japan
+Yokohama,Kanagawa,Japan
+Sapporo,Hokkaido,Japan
+Fukuoka,Fukuoka,Japan
+Kobe,Hyogo,Japan
+Kyoto,Kyoto,Japan
+Nagasaki,Nagasaki,Japan
+Hiroshima,Hiroshima,Japan
+Singapore,Central Region,Singapore
+Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia
+George Town,Penang,Malaysia
+Ipoh,Perak,Malaysia
+Kuching,Sarawak,Malaysia
+Kota Kinabalu,Sabah,Malaysia
+Johor Bahru,Johor,Malaysia
+Malacca City,Malacca,Malaysia
+Alor Setar,Kedah,Malaysia
+Seoul,Seoul,South Korea
+Busan,Busan,South Korea
+Incheon,Incheon,South Korea
+Daegu,Daegu,South Korea
+Daejeon,Daejeon,South Korea
+Gwangju,Gwangju,South Korea
+Ulsan,Ulsan,South Korea
+Suwon,Gyeonggi,South Korea
+Jakarta,Special Capital Region of Jakarta,Indonesia
+Surabaya,East Java,Indonesia
+Bandung,West Java,Indonesia
+Medan,North Sumatra,Indonesia
+Semarang,Central Java,Indonesia
+Rabat,Rabat-Salé-Kénitra,Morocco
+Algiers,Algiers Province,Algeria
+Tunis,Tunis Governorate,Tunisia
+Tripoli,Tripoli District,Libya
+Tangier,Tanger-Tetouan-Al Hoceima,Morocco
+Casablanca,Casablanca-Settat,Morocco
+Marrakech,Marrakech-Safi,Morocco
+Oran,Oran Province,Algeria
+Constantine,Constantine Province,Algeria
+Tlemcen,Tlemcen Province,Algeria
+Sfax,Sfax Governorate,Tunisia
+Sousse,Sousse Governorate,Tunisia
+Benghazi,Benghazi District,Libya
+Fez,Fès-Meknès,Morocco
+Tehran,Tehran,Iran
+Mashhad,Razavi Khorasan,Iran
+Isfahan,Isfahan,Iran
+Tabriz,East Azerbaijan,Iran
+Shiraz,Fars,Iran
+Ahvaz,Khuzestan,Iran
+Qom,Qom,Iran
+Kerman,Kerman,Iran
+Hamedan,Hamadan,Iran
+Karaj,Alborz,Iran
+Kermanshah,Kermanshah,Iran
+Yazd,Yazd,Iran
+Beirut,Beirut Governorate,Lebanon
+Damascus,Rif Dimashq,Syria
+Amman,Amman Governorate,Jordan
+Ramallah,West Bank,State of Palestine
+Aleppo,Aleppo Governorate,Syria
+Homs,Homs Governorate,Syria
+Latakia,Latakia Governorate,Syria
+Gaza City,Gaza Strip,State of Palestine
+Jerusalem,Jerusalem District,Israel
+Tel Aviv,Tel Aviv District,Israel
+Haifa,Haifa District,Israel
+Rishon LeZion,Central District,Israel
+Petah Tikva,Central District,Israel
+Ashdod,Southern District,Israel
+Ganja,Ganja,Azerbaijan
+Batumi,Adjara,Georgia
+Kutaisi,Imereti,Georgia
+Bangkok,Bangkok,Thailand
+Vientiane,Vientiane Prefecture,Laos
+Phnom Penh,Phnom Penh,Cambodia
+Hanoi,Hanoi,Vietnam
+Manila,Metro Manila,Philippines
+Naypyidaw,Naypyidaw Union Territory,Myanmar
+Bandar Seri Begawan,Brunei-Muara,Brunei
+Phuket,Phuket,Thailand
+Papeete,French Polynesia,France
+Port Moresby,National Capital District,Papua New Guinea
+Dili,Dili,East Timor
+Wellington,Wellington,New Zealand
+Auckland,Auckland,New Zealand
+Christchurch,Canterbury,New Zealand
+Tauranga,Bay of Plenty,New Zealand
+Dunedin,Otago,New Zealand
+Palmerston North,Manawatu-Wanganui,New Zealand
+Napier,Hawke's Bay,New Zealand
+Hastings,Hawke's Bay,New Zealand
+Nelson,Nelson,New Zealand
+Rotorua,Bay of Plenty,New Zealand
+New Plymouth,Taranaki,New Zealand
+Canberra,Australian Capital Territory,Australia
+Sydney,New South Wales,Australia
+Melbourne,Victoria,Australia
+Brisbane,Queensland,Australia
+Perth,Western Australia,Australia
+Adelaide,South Australia,Australia
+Gold Coast,Queensland,Australia
+Newcastle,New South Wales,Australia
+Hobart,Tasmania,Australia
+Darwin,Northern Territory,Australia
+Cairns,Queensland,Australia
+Townsville,Queensland,Australia
+Alice Springs,Northern Territory,Australia
+Nuku'alofa,Tongatapu,Tonga
+Apia,Tuamasaga,Samoa
+Havana,La Habana,Cuba
+Nassau,New Providence,The Bahamas
+Port-au-Prince,Ouest,Haiti
+Kingston,Kingston,Jamaica
+Santo Domingo,Nacional,Dominican Republic
+Bridgetown,Saint Michael,Barbados
+Saint John's,Saint John,Antigua and Barbuda
+Basseterre,Saint George Basseterre,Saint Kitts and Nevis
+Castries,Castries,Saint Lucia
+Kingstown,Saint George,Saint Vincent and the Grenadines
+Roseau,Saint George,Dominica
+St. George's,Saint George,Grenada
+Port of Spain,Diego Martin,Trinidad and Tobago
+Santiago de Cuba,Santiago de Cuba,Cuba
+Holguín,Holguín,Cuba
+Camagüey,Camagüey,Cuba
+Montgomery,Alabama,United States
+Juneau,Alaska,United States
+Phoenix,Arizona,United States
+Little Rock,Arkansas,United States
+Sacramento,California,United States
+Denver,Colorado,United States
+Hartford,Connecticut,United States
+Dover,Delaware,United States
+Tallahassee,Florida,United States
+Atlanta,Georgia,United States
+Honolulu,Hawaii,United States
+Boise,Idaho,United States
+Springfield,Illinois,United States
+Indianapolis,Indiana,United States
+Des Moines,Iowa,United States
+Topeka,Kansas,United States
+Frankfort,Kentucky,United States
+Baton Rouge,Louisiana,United States
+Augusta,Maine,United States
+Annapolis,Maryland,United States
+Boston,Massachusetts,United States
+Lansing,Michigan,United States
+St. Paul,Minnesota,United States
+Jackson,Mississippi,United States
+Jefferson City,Missouri,United States
+Helena,Montana,United States
+Lincoln,Nebraska,United States
+Carson City,Nevada,United States
+Concord,New Hampshire,United States
+Trenton,New Jersey,United States
+Santa Fe,New Mexico,United States
+Albany,New York,United States
+Raleigh,North Carolina,United States
+Bismarck,North Dakota,United States
+Columbus,Ohio,United States
+Oklahoma City,Oklahoma,United States
+Salem,Oregon,United States
+Harrisburg,Pennsylvania,United States
+Providence,Rhode Island,United States
+Columbia,South Carolina,United States
+Pierre,South Dakota,United States
+Nashville,Tennessee,United States
+Austin,Texas,United States
+Gary,Indiana,United States
+Salt Lake City,Utah,United States
+Montpelier,Vermont,United States
+Richmond,Virginia,United States
+Olympia,Washington,United States
+Charleston,West Virginia,United States
+Madison,Wisconsin,United States
+Cheyenne,Wyoming,United States
+Anchorage,Alaska,United States
+Los Angeles,California,United States
+San Francisco,California,United States
+San Diego,California,United States
+San Antonio,Texas,United States
+Dallas,Texas,United States
+Houston,Texas,United States
+Chicago,Illinois,United States
+New York City,New York,United States
+Philadelphia,Pennsylvania,United States
+Tucson,Arizona,United States
+Fayetteville,Arkansas,United States
+Colorado Springs,Colorado,United States
+Bridgeport,Connecticut,United States
+Wilmington,Delaware,United States
+Jacksonville,Florida,United States
+Miami,Florida,United States
+Orlando,Florida,United States
+Tampa,Florida,United States
+Savannah,Georgia,United States
+Idaho Falls,Idaho,United States
+Aurora,Illinois,United States
+Fort Wayne,Indiana,United States
+Cedar Rapids,Iowa,United States
+Wichita,Kansas,United States
+Overland Park,Kansas,United States
+Louisville,Kentucky,United States
+Lexington,Kentucky,United States
+New Orleans,Louisiana,United States
+Lewiston,Maine,United States
+Baltimore,Maryland,United States
+Worcester,Massachusetts,United States
+Grand Rapids,Michigan,United States
+Duluth,Minnesota,United States
+Gulfport,Mississippi,United States
+Kansas City,Missouri,United States
+St. Louis,Missouri,United States
+Billings,Montana,United States
+Omaha,Nebraska,United States
+Las Vegas,Nevada,United States
+Reno,Nevada,United States
+Nashua,New Hampshire,United States
+Newark,New Jersey,United States
+Jersey City,New Jersey,United States
+Albuquerque,New Mexico,United States
+Las Cruces,New Mexico,United States
+Buffalo,New York,United States
+Cleveland,Ohio,United States
+Tulsa,Oklahoma,United States
+Portland,Oregon,United States
+Eugene,Oregon,United States
+Pittsburgh,Pennsylvania,United States
+Warwick,Rhode Island,United States
+Sioux Falls,South Dakota,United States
+Rapid City,South Dakota,United States
+Memphis,Tennessee,United States
+Fort Worth,Texas,United States
+West Valley City,Utah,United States
+Burlington,Vermont,United States
+South Burlington,Vermont,United States
+Virginia Beach,Virginia,United States
+Norfolk,Virginia,United States
+Seattle,Washington,United States
+Spokane,Washington,United States
+Huntington,West Virginia,United States
+Milwaukee,Wisconsin,United States
+Casper,Wyoming,United States
+Kabul,Kabul Province,Afghanistan
+Tirana (Tirane),,Albania
+Andorra la Vella,,Andorra
+Luanda,,Angola
+Manama,,Bahrain
+Porto Novo,,Benin
+La Paz,,Bolivia
+Gaborone,,Botswana
+Brasilia,,Brazil
+Ouagadougou,,Burkina Faso
+Gitega,,Burundi
+Yaounde,,Cameroon
+Praia,,Cape Verde
+Bangui,,Central African Republic
+N'Djamena,,Chad
+Bogota,,Colombia
+Moroni,,Comoros
+Kinshasa,,Democratic Republic of the Congo
+Brazzaville,,Republic of the Congo
+Yamoussoukro,,Côte d'Ivoire
+Alexandria,,Egypt
+Cairo,,Egypt
+Malabo,,Equatorial Guinea
+Asmara,,Eritrea
+Mbabana,,Eswatini (Swaziland)
+Addis Ababa,,Ethiopia
+Palikir,,Federated States of Micronesia
+Suva,,Fiji
+Libreville,,Gabon
+Banjul,,Gambia
+Accra,,Ghana
+Saint George's,,Grenada
+Conakry,,Guinea
+Bissau,,Guinea-Bissau
+Port au Prince,,Haiti
+Reykjavik,,Iceland
+Baghdad,,Iraq
+Astana,,Kazakhstan
+Nairobi,,Kenya
+Tarawa Atoll,,Kiribati
+Kuwait City,,Kuwait
+Maseru,,Lesotho
+Monrovia,,Liberia
+Vaduz,,Liechtenstein
+Antananarivo,,Madagascar
+Lilongwe,,Malawi
+Male,,Maldives
+Bamako,,Mali
+Majuro,,Marshall Islands
+Nouakchott,,Mauritania
+Port Louis,,Mauritius
+Mexico City,,Mexico
+Monaco,,Monaco
+Maputo,,Mozambique
+Nay Pyi Taw,,Myanmar (Burma)
+Windhoek,,Namibia
+Niamey,,Niger
+Abuja,,Nigeria
+Pyongyang,,North Korea
+Belfast,,Northern Ireland
+Muscat,,Oman
+Melekeok,,Palau
+Asuncion,,Paraguay
+Doha,,Qatar
+Kigali,,Rwanda
+San Marino,,San Marino
+Sao Tome and Principe,,Sao Tome
+Riyadh,,Saudi Arabia
+Edinburgh,,Scotland
+Dakar,,Senegal
+Freetown,,Sierra Leone
+Honiara,,Solomon Islands
+Mogadishu,,Somalia
+Pretoria,,South Africa
+Bloemfontein,,South Africa
+Juba,,South Sudan
+Sri Jayawardenapura Kotte,,Sri Lanka
+Khartoum,,Sudan
+Bern,,Switzerland
+Dodoma,,Tanzania
+Lome,,Togo
+Funafuti,,Tuvalu
+Kampala,,Uganda
+Abu Dhabi,,United Arab Emirates
+Washington D.C.,,United States
+Port Vila,,Vanuatu
+Cardiff,,Wales
+Sana'a,,Yemen
+Lusaka,,Zambia
+Harare,,Zimbabwe
+Novosibirsk,Novosibirsk Oblast,Russia
+Yekaterinburg,Sverdlovsk Oblast,Russia
+Omsk,Omsk Oblast,Russia
+Chelyabinsk,Chelyabinsk Oblast,Russia
+Krasnoyarsk,Krasnoyarsk Krai,Russia
+Irkutsk,Irkutsk Oblast,Russia
+Ulan-Ude,Republic of Buryatia,Russia
+Yakutsk,Sakha Republic (Yakutia),Russia
+Vladivostok,Primorsky Krai,Russia
+Khabarovsk,Khabarovsk Krai,Russia
+Blagoveshchensk,Amur Oblast,Russia
+Chita,Zabaykalsky Krai,Russia
+Magadan,Magadan Oblast,Russia
+Petropavlovsk-Kamchatsky,Kamchatka Krai,Russia
